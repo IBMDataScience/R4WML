@@ -1,5 +1,8 @@
 # R4WML
-R library for Watson Machine Learning (WML)
+
+R library for [Watson Machine Learning (WML)](https://www.ibm.com/cloud/machine-learning). 
+
+
 
 ## Installation and use
 
